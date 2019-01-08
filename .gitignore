@@ -26,3 +26,10 @@ hs_err_pid*
 
 .idea
 *.iml
+.editorconfig
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+java1.iml
+src/
